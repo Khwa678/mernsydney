@@ -20,7 +20,7 @@ Admin dashboard with filtering and import workflow
 Event status tagging and metadata tracking
 
 This project demonstrates end-to-end full-stack engineering, combining data extraction, backend processing, authentication, state management, and UI rendering.
-
+youtube link :https://youtu.be/yw1Ti2eMvoo
 🏗 Architecture Overview
 
 The application follows a standard MERN architecture:
